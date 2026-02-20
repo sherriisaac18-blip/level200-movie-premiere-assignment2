@@ -10,9 +10,6 @@ p {
 section {
     margin-bottom: 30px;
 }
-section h2 {
-  text-align: center;
-}
 table {
     font-family: georgia;
     border-collapse: collapse;
@@ -45,4 +42,7 @@ tr:hover {
   border-top: 2px dotted rgb(177, 23, 64);
   padding: 10px;
   text-align: left;
+}
+#middle {
+  text-align: center;
 }
