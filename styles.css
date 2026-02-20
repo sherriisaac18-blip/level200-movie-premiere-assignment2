@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(251, 232, 246);
+}
+h1 {
+    color:rgb(145, 22, 55); 
+}
+p {
+    font-family: georgia;
+}
+section {
+    margin-bottom: 30px;
+}
+section h2 {
+  text-align: center;
+}
+table {
+    font-family: georgia;
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+}
+th{
+    background-color: rgb(255, 118, 141);
+}
+th, td {
+    border: 3px solid rgb(255, 118, 141);
+    text-align: left;
+    padding: 10px;
+}
+img {
+  width: 300px;
+  height: auto;
+}
+tr:hover {
+  background-color: rgb(255, 118, 141);
+  color: white;
+}
+.divide {
+  background-color: rgb(255, 190, 207);
+  color: rgb(145, 22, 55);
+  margin: 10px;
+  padding: 10px;
+}
+#line {
+  border-top: 2px dotted rgb(255, 118, 141);
+  padding: 10px;
+  text-align: left;
+}
